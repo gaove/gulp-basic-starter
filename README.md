@@ -21,8 +21,8 @@ A basic gulp starter project.
 
 # Run development tasks:
 ```
-- npm install
-- npm run gulp server
-- npm run gulp 
+- npm install (install dependencies)
+- npm run gulp server (run the project)
+- npm run gulp (optimize for deploy)
 ```
 
